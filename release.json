@@ -1,13 +1,13 @@
 {
-  "currentRelease": "0.2.0",
+  "currentRelease": "0.1.0",
   "releases": [
     {
       "version": "0.1.0",
       "updateTo": {
-        "version": "0.2.0",
+        "version": "0.1.0",
         "pub_date": "2023-09-18T12:29:53+01:00",
         "notes": "Theses are some release notes innit",
-        "name": "0.2.0",
+        "name": "0.1.0",
         "url": "https://github.com/nolongerhesitate/r-wallpaper/releases/download/0.1.0/RWallpaper-darwin-arm64-0.1.0.zip"
       }
     }
